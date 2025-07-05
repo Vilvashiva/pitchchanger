@@ -1,0 +1,9 @@
+json{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://audio-pitch-master-kirthiramaniyer.replit.app/$1",
+      "permanent": false
+    }
+  ]
+}
